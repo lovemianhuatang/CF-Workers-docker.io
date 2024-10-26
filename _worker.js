@@ -21,6 +21,10 @@ function routeByHosts(host) {
 		"ghcr": "ghcr.io",
 		"cloudsmith": "docker.cloudsmith.io",
 		"nvcr": "nvcr.io",
+		"elastic": "docker.elastic.co",
+		"microsoft": "mcr.microsoft.com",
+		"jujucharms": "registry.jujucharms.com",
+		"canonical": "rocks.canonical.com",
 		
 		// 测试环境
 		"test": "registry-1.docker.io",
