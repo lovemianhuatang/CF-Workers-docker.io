@@ -16,7 +16,6 @@ function routeByHosts(host) {
 		// 生产环境
 		"quay": "quay.io",
 		"gcr": "gcr.io",
-		"k8s-gcr": "k8s.gcr.io",
 		"k8s": "registry.k8s.io",
 		"ghcr": "ghcr.io",
 		"cloudsmith": "docker.cloudsmith.io",
